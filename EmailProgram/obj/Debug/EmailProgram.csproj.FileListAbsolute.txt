@@ -1,0 +1,10 @@
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\bin\Debug\EmailProgram.exe.config
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\bin\Debug\EmailProgram.exe
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\bin\Debug\EmailProgram.pdb
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.csprojAssemblyReference.cache
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.Form1.resources
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.Properties.Resources.resources
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.csproj.GenerateResource.cache
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.csproj.CoreCompileInputs.cache
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.exe
+C:\Users\orxan\source\repos\EmailProgram\EmailProgram\obj\Debug\EmailProgram.pdb
