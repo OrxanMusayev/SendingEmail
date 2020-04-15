@@ -27,7 +27,7 @@ namespace EmailProgram
             {
                 MailMessage mailMessage = new MailMessage("orxanmusayev2910@gmail.com", txtto.Text, txtSubject.Text, txtBody.Text);
                 SmtpClient smtpClient = new SmtpClient("smtp.gmail.com", 587);
-                smtpClient.Credentials = new System.Net.NetworkCredential("orxanmusayev2910@gmail.com", "Orxan2910");
+                smtpClient.Credentials = new System.Net.NetworkCredential("orxanmusayev2910@gmail.com", "Orxan123");
                 smtpClient.EnableSsl = true;
                 smtpClient.Send(mailMessage);
                 MessageBox.Show("Mail göndərildi");
